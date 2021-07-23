@@ -10,22 +10,34 @@
 
 ### Express  
 
+- [x]  Stage 1
+- [x]  Stage 2
+- [x]  Stage 3
+- [x]  Stage 4
+
+
 ### Stsge 1
 
-- [x] **Task 1**: getAllBooks
-- [x] **Task 2**: getBook
-- [x] **Task 3**: searchBooks
-- [x] **Task 4:** getLoanedBooks
-- [x] **Extras:** issueBook
+- [x]  getAllBooks
+- [x]  getBook
+- [x]  searchBooks
+- [x]  getLoanedBooks
+- [x]  issueBook
 
 ### Stsge 2
 - [x] **Stage 2**
 
 ### Stsge 3
-- [x] **Stage 3**
+- [x]  
+- [x]  Import models in controllers/store.js and controllers/auth.js
+- [x]  Book, BookCopy and User model 
 
 #### Stsge 4
-- [x] **Stage 4**
+- [x]  
+- [x]  
+- [x]  frontend view for login,register
+- [x]  
+- [x]  isLoggedIn function in middleware/index.js
 
 
 ### Submission

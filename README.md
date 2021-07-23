@@ -10,7 +10,7 @@
 
 ### Express  
 
-####Stsge 1
+###Stsge 1
 
 - [x] **Task 1**: getAllBooks
 - [x] **Task 2**: getBook
@@ -18,13 +18,13 @@
 - [x] **Task 4:** getLoanedBooks
 - [x] **Extras:** issueBook
 
-####Stsge 2
+###Stsge 2
 - [x] **Stage 2**
 
-####Stsge 3
+###Stsge 3
 - [x] **Stage 3**
 
-####Stsge 4
+###Stsge 4
 - [x] **Stage 4**
 
 
